@@ -26,6 +26,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Cristian-Chs&theme=transparent" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Chs&show_icons=true&theme=transparent" alt="GitHub Stats" width="45%" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Chs&show_icons=true&theme=transparent" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Chs&layout=compact&theme=transparent" alt="Top Langs" width="35%" />
 </p>
